@@ -1,5 +1,5 @@
-- 👋 Hi, I’m  Ahsan jabbar
--  Software  Engineer
+- 👋 Hi, I’m  Ahsan jabbar & Software  Engineer.
+          MY SKILLS IS:
 -  Data Analyst
 -  Web Scrapping Specialist
 -  Data Scientist  |
