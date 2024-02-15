@@ -1,3 +1,8 @@
 - 👋 Hi, I’m  Ahsan jabbar
-- 👀 I’m future data scientist
+-  Software  Engineer
+-  Data Analyst
+-  Web Scrapping Specialist
+-  Data Scientist  |
+-  MS Power BI Developer 
+-  Django Developer
 - 🌱 I’m currently learning 
