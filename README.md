@@ -1,3 +1,0 @@
-- 👋 Hi, I’m  Ahsan jabbar
-- 👀 I’m future data scientist
-- 🌱 I’m currently learning 
